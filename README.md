@@ -1,8 +1,8 @@
-# 📚 Book Recommender
+#  Book Recommender
 
 Una aplicación de recomendación de libros con estética gótica y oscura, desarrollada con React y TailwindCSS. El usuario responde a una serie de preguntas, tras las cuales recibe sugerencias de libros con portadas estilizadas y sinopsis generadas por IA.
 
-## 🖼️ Vista previa
+##  Vista previa
 
 > **
 
