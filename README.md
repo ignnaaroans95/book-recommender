@@ -4,16 +4,16 @@ Una aplicación de recomendación de libros con estética gótica y oscura, desa
 
 ## 🖼️ Vista previa
 
-> *(Aquí puedes subir capturas si lo deseas)*
+> **
 
-## 🚀 Características
+##  Características
 
-- ⚙️ Interfaz interactiva y responsiva
-- 🧠 Recomendaciones de libros basadas en preguntas clave
-- 🎨 Estética gótica oscura personalizada
-- 🤖 Sinopsis generadas dinámicamente mediante IA
-- 🖼️ Portadas generadas y estilizadas para cada recomendación
-- 💾 Desplegable como PWA o WebApp
+-  Interfaz interactiva y responsiva
+-  Recomendaciones de libros basadas en preguntas clave
+-  Estética gótica oscura personalizada
+-  Sinopsis generadas dinámicamente mediante IA
+-  Portadas generadas y estilizadas para cada recomendación
+-  Desplegable como PWA o WebApp
 
 ## 🛠️ Tecnologías usadas
 
@@ -22,7 +22,7 @@ Una aplicación de recomendación de libros con estética gótica y oscura, desa
 - [TailwindCSS](https://tailwindcss.com/)
 - [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 - [Figma / Canva (para diseño UI)](https://figma.com)
-- [OpenAI API (opcional para sinopsis)](https://platform.openai.com/)
+- [OpenAI API y CHATGPT ](https://platform.openai.com/)
 
 ## 📦 Instalación local
 
